@@ -2,7 +2,7 @@
 <h3 align="center">I am learning and developing on JavaScript.</h3>
 
 - 💻 I’m currently learning **JavaScript**
-- 🤖 I’m currently coding a Discord Bot with **Discord.js**
+- 🤖 I’m currently coding a Discord Bot with **Discord.js** module.
 
 
 <h3 align="left">Languages and Tools:</h3>
